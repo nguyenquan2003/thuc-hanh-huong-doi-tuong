@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\NguyenNgocQuan\NguyenNgocQuan\bin\Debug\NguyenNgocQuan.exe.config
+C:\Users\admin\source\repos\NguyenNgocQuan\NguyenNgocQuan\bin\Debug\NguyenNgocQuan.exe
+C:\Users\admin\source\repos\NguyenNgocQuan\NguyenNgocQuan\bin\Debug\NguyenNgocQuan.pdb
+C:\Users\admin\source\repos\NguyenNgocQuan\NguyenNgocQuan\obj\Debug\NguyenNgocQuan.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\NguyenNgocQuan\NguyenNgocQuan\obj\Debug\NguyenNgocQuan.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NguyenNgocQuan\NguyenNgocQuan\obj\Debug\NguyenNgocQuan.exe
+C:\Users\admin\source\repos\NguyenNgocQuan\NguyenNgocQuan\obj\Debug\NguyenNgocQuan.pdb

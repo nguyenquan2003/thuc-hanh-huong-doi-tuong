@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChiNhanh>
+	<TenChiNhanh>To  Ky</TenChiNhanh>
+	<DiaChi>123  To  Ky,  Quan  12</DiaChi>
+	<DS>
+		<KH  Loai="TN">
+			<MA>KH001</MA>
+			<TEN>Ngoc  Tram</TEN>
+			<GT>NU</GT>
+			<TongGiaTri>45000000</TongGiaTri>
+		</KH>
+		<KH  Loai="TT">
+			<MA>KH002</MA>
+			<TEN>Thanh  Nga</TEN>
+			<GT>NU</GT>
+			<NamThamGia>2003</NamThamGia>
+		</KH>
+		<KH  Loai="VIP">
+			<MA>KH003</MA>
+			<TEN>Tran  Long</TEN>
+			<GT>Nam</GT>
+			<TaiSan>1200000000</TaiSan>
+			<ThoiHan>4</ThoiHan>
+		</KH>
+	</DS>
+</ChiNhanh>

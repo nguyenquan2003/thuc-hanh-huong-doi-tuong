@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\kt xml\kt xml\bin\Debug\kt xml.exe.config
+C:\Users\admin\source\repos\kt xml\kt xml\bin\Debug\kt xml.exe
+C:\Users\admin\source\repos\kt xml\kt xml\bin\Debug\kt xml.pdb
+C:\Users\admin\source\repos\kt xml\kt xml\obj\Debug\kt xml.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\kt xml\kt xml\obj\Debug\kt xml.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kt xml\kt xml\obj\Debug\kt xml.exe
+C:\Users\admin\source\repos\kt xml\kt xml\obj\Debug\kt xml.pdb

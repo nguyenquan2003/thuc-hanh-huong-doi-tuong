@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SieuThi>
+	<ten>quan</ten>
+	<diachi>12/3/2000</diachi>
+	<Hanghoas>
+		<Hanghoa>
+			<loai>1</loai>
+			<mahh>123</mahh>
+			<soluong>20</soluong>
+			<dongia>2400000</dongia>
+		</Hanghoa>
+		<Hanghoa>
+			<loai>2</loai>
+			<mahh>234</mahh>
+			<soluong>30</soluong>
+			<dongia>220000</dongia>
+		</Hanghoa>
+	</Hanghoas>
+</SieuThi>

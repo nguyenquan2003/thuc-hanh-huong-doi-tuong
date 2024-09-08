@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\kiem tra\kiem tra\obj\Debug\kiem tra.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\kiem tra\kiem tra\obj\Debug\kiem tra.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kiem tra\kiem tra\bin\Debug\kiem tra.exe.config
+C:\Users\admin\source\repos\kiem tra\kiem tra\bin\Debug\kiem tra.exe
+C:\Users\admin\source\repos\kiem tra\kiem tra\bin\Debug\kiem tra.pdb
+C:\Users\admin\source\repos\kiem tra\kiem tra\obj\Debug\kiem tra.exe
+C:\Users\admin\source\repos\kiem tra\kiem tra\obj\Debug\kiem tra.pdb
